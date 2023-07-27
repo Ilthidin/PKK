@@ -1,0 +1,43 @@
+
+table {
+    font-family: arial, sans-serif;
+    width: 100%;
+}
+
+th {
+    background-color: orange;
+}
+
+td,
+th {
+    border: 1px solid #000000;
+    text-align: justify;
+    padding: 8px;
+}
+
+tr {
+    background-color: rgb(255, 255, 255);
+}
+
+#judul {
+    text-align: center;
+}
+
+body,
+html {
+     height: 100%;
+     margin: 0;
+}
+
+.bg {
+     /* The image used */
+     background-image: url("img/gedung.jpg");
+
+     /* Full height */
+     height: 100%;
+
+     /* Center and scale the image nicely */
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
