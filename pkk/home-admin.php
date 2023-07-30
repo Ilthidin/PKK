@@ -1,6 +1,6 @@
 <?php
-include "session.php";
-include "header.html"
+include "header-admin.html";
+include "session-admin.php";
 ?>
 
 <div class="bg"></div>
